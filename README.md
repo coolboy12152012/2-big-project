@@ -1,2 +1,2 @@
 # 2-big-project
-A powerful Pyhton project- simple, smart and build with creativity
+A powerful Python project- simple, smart and build with creativity
